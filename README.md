@@ -38,6 +38,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+- Map is laggy on simulator
+
 ## License
 
     Copyright [2017] [Jungyoon Yu]
